@@ -3,3 +3,6 @@ nama nama hewan
 -kucing
 -kungkang
 -monyet
+-anjing
+-lu 
+-bangsat
