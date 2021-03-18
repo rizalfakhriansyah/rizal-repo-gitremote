@@ -1,8 +1,4 @@
 nama nama hewan 
 -singa
--kucing
--kungkang
--monyet
--gorilla
--musang
--gajah
+-jerapah
+-kuda nil
