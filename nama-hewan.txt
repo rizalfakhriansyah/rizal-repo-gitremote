@@ -2,3 +2,5 @@ nama nama hewan
 -singa
 -jerapah
 -kuda nil
+-kucing
+-kungkang
