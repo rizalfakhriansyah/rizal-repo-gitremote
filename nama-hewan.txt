@@ -3,3 +3,7 @@ nama nama hewan
 -kucing
 -kungkang
 -monyet
+-gorilla
+-musang
+-gajah
+
